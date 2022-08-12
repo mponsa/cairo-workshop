@@ -1,0 +1,2 @@
+0x07a5293d12a06411009e05499cc4af36804f0d8bcc919f04114664052737d65a:/Users/manuel/cairo_venv/lib/python3.8/site-packages/nile/artifacts/abis/Account.json:account-0
+0x00a178a1577bada1daf9786b134cb371fb22d2102d5e4f2c5cc1fbdf7e84a8c2:artifacts/abis/UwuToken.json:uwu_token
